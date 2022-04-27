@@ -1,1 +1,1 @@
-# This repository is for organizing the experimental
+# This repository is for organizing the experimental method
