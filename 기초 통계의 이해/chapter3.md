@@ -21,8 +21,12 @@
 > > 모평균 u가 특정한 값 U_0인지 검정하기 위한 가설
 > > 
 > > > 귀무가설: H_0:u=u_0
+> > > 
 > > > 대립가설: H_1:u>u_0 또는 H_1:u<u_0 또는 H_1:u<u_0 또는 H_1:u!=u_0
-> > > 검정통계량: ![image](https://user-images.githubusercontent.com/65435447/165917917-8a05fe25-d847-48d5-bb71-429def7003a4.png)
+> > > 
+> > > 검정통계량:
+> > > 
+> > > ![image](https://user-images.githubusercontent.com/65435447/165917917-8a05fe25-d847-48d5-bb71-429def7003a4.png)
 
 
 
