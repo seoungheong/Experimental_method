@@ -66,7 +66,11 @@
 > >  
 > >  ![image](https://user-images.githubusercontent.com/65435447/165921464-efad6710-4bf3-4ad2-9b8c-5099eb8be7ac.png)
 > >
-> > <출처 : http://jangun.com/study/StatisticsConceptProblem.html> 
+> > <출처 : http://jangun.com/study/IntroductionStatistics.html> 
+> >  
+> >  ![image](https://user-images.githubusercontent.com/65435447/165922055-91534033-e98f-4cd3-b1e9-2b95f456ec8b.png)
+> >  
+> >  <출처 : https://velog.io/@gggggeun1/%EC%B6%94%EB%A6%AC%ED%86%B5%EA%B3%84%EC%99%80-%EA%B0%80%EC%84%A4%EA%B2%80%EC%A0%95> 
 > >  
 > >  ㅇ
 > ㅇ
