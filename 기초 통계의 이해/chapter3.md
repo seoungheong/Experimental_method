@@ -40,7 +40,66 @@
 > > 
 
 # 독립 이표본 평균차에 대한 추론
+>
+> #### 대조군과 처리군의 비교
+> 
+> > 두 모집단의 모평균 u_1과 u_2가 같은지 비교
+> >
+> > 두 모집단에서 독립적으로 얻은 자료
+> > 
+> > 두 그룹의 평균차 u_1 - u_2에 대한 추론
+> > 
+> 
+> #### 독립 이표본 t검정(Independent samples t-test)
+> >  
+> > 두 그룹의 자료가 독립일 때 두 그룹 평균차에 대한 검정
+> >
+> > 두 그룹의 분산이 같을 때(v_1 = v_2) 
+> >  
+> > #### 신뢰구간
+> >  
+> > 두 그룹 평균차 u_1-u_2 에 대한 100(1-a)% 신뢰구간 
+> >  
+> > ![image](https://user-images.githubusercontent.com/65435447/165921228-77af3623-df62-46d3-9dc3-87fec9f064b7.png)
+> >  
+> > <출처 : http://jangun.com/study/StatisticsConceptProblem.html>
+> >  
+> >  ![image](https://user-images.githubusercontent.com/65435447/165921464-efad6710-4bf3-4ad2-9b8c-5099eb8be7ac.png)
+> >
+> > <출처 : http://jangun.com/study/StatisticsConceptProblem.html> 
+> >  
+> >  ㅇ
+> ㅇ
 
 
 # 대응 2 표본 추론(짝비교, 쌍체검정)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
