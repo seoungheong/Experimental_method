@@ -27,11 +27,19 @@
 > > > 검정통계량:
 > > > 
 > > > ![image](https://user-images.githubusercontent.com/65435447/165917917-8a05fe25-d847-48d5-bb71-429def7003a4.png)
-
-
+>
+> > 기각역은 각각의 대립가설에 대해서 다음과 같음
+> > 
+> > ![image](https://user-images.githubusercontent.com/65435447/165918464-ebaeda81-4d47-4178-bbd9-2357b27eef3f.png)
+> >
+> > <출처 : http://jangun.com/study/IntroductionStatistics.html>
+> >
+> > 일표본 t 검정(One sample t-test)
+> > 
+> > 통계 패키지 사용 시 유의확률을 계산해주므로 유의확률이 유의수준보다 작으면 귀무가설을 기각함
+> > 
 
 # 독립 이표본 평균차에 대한 추론
-
 
 
 # 대응 2 표본 추론(짝비교, 쌍체검정)
